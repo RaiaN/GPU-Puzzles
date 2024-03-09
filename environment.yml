@@ -1,0 +1,10 @@
+name: gpu_puzzles
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - cudatoolkit
+  - numba
+  - jupyter
